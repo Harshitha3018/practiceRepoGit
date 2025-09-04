@@ -2,6 +2,6 @@
 	<body>
 		<h1>First Repo, Modifying</h1>
 		<h2>Dev Branch</h2>
-		<h3>Operating remotely, from repo</h3>
+		<h3>Operating , from repo,</h3>
 	</body>
 </html>
